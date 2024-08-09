@@ -4,5 +4,29 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "name": "svg-logo-maker",
+  "version": "1.0.0",
+  "description": "A tool to generate simple shaped svg logo",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/William-figure/SVG-LOGO-MAKER.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Yucheng Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/William-figure/SVG-LOGO-MAKER/issues"
+  },
+  "homepage": "https://github.com/William-figure/SVG-LOGO-MAKER#readme"
 }
